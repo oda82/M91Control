@@ -1,1 +1,3688 @@
-{"Setup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":false,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"1e3aeaaa-d5b6-42fe-8b8a-8acdafb60ac2"},"OptimizationSetup":{"MaxCurrentInAmps":0.1,"MaxVoltageInVolts":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"99f4b215-c45c-4663-a5c9-c6ca0f1f0103"},"OptimizationDiagnostics":{"OptimizedSetup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":false,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"1e3aeaaa-d5b6-42fe-8b8a-8acdafb60ac2"},"BlankingTimeCalculationResult":{"BlankingTimeInSeconds":0.002,"VoltageCurrentBlankingTimeData":[{"Voltage":0.5402957,"Current":0.009984177,"Resistance":54.1152,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Voltage":0.5258845,"Current":0.009991774,"Resistance":52.63175,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Voltage":0.5197612,"Current":2.501218E-05,"Resistance":20780.32,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":true},{"Voltage":0.514839,"Current":0.009991908,"Resistance":51.52559,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Voltage":0.5109491,"Current":0.009991941,"Resistance":51.13612,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Voltage":0.2502226,"Current":0.009991985,"Resistance":25.04233,"InCompliance":false,"VoltageOverload":true,"CurrentOverload":false},{"Voltage":0.5063598,"Current":0.009991974,"Resistance":50.67665,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}]},"ContactPairOptimizationResults":[{"OptimizedSetup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":true,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"f991a139-b100-4f79-b73d-b6395274dbbb"},"ContactPair":{"Point1":1,"Point2":2},"InCompliance":false,"CalculatedRSquared":0.99992503536899158,"Offset":-0.0079156541358025734,"Slope":674.96412568971152,"RSquaredPass":true,"LastIvCurve":[{"Source":0.0031623,"ResistanceInOhms":663.5346,"VoltageInVolts":2.096371,"CurrentInAmps":0.0031594,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":671.7,"VoltageInVolts":1.697684,"CurrentInAmps":0.002527444,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":676.8224,"VoltageInVolts":1.282914,"CurrentInAmps":0.001895496,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":680.3058,"VoltageInVolts":0.8596481,"CurrentInAmps":0.00126362,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":682.8349,"VoltageInVolts":0.4313355,"CurrentInAmps":0.0006316835,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":390.2523,"VoltageInVolts":-6.607566E-05,"CurrentInAmps":-1.693153E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":684.5982,"VoltageInVolts":-0.4326356,"CurrentInAmps":-0.0006319555,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":684.2165,"VoltageInVolts":-0.86481,"CurrentInAmps":-0.001263942,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":683.1177,"VoltageInVolts":-1.295029,"CurrentInAmps":-0.001895763,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":680.956,"VoltageInVolts":-1.721299,"CurrentInAmps":-0.002527768,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":678.008,"VoltageInVolts":-2.14227,"CurrentInAmps":-0.003159653,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}],"IvCurvesAttempted":3,"Success":true},{"OptimizedSetup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":true,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"06d1d95c-4ec8-4553-b935-2c7d65722b9b"},"ContactPair":{"Point1":2,"Point2":3},"InCompliance":false,"CalculatedRSquared":0.9999248097331167,"Offset":-0.0085360357227661117,"Slope":678.51369766689982,"RSquaredPass":true,"LastIvCurve":[{"Source":0.0031623,"ResistanceInOhms":666.7989,"VoltageInVolts":2.106676,"CurrentInAmps":0.003159388,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":674.9184,"VoltageInVolts":1.70582,"CurrentInAmps":0.002527447,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":679.7731,"VoltageInVolts":1.288504,"CurrentInAmps":0.001895491,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":683.2217,"VoltageInVolts":0.863321,"CurrentInAmps":0.001263603,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":685.8486,"VoltageInVolts":0.4332219,"CurrentInAmps":0.0006316581,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":392.8324,"VoltageInVolts":-7.269399E-05,"CurrentInAmps":-1.850509E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":687.9271,"VoltageInVolts":-0.4347362,"CurrentInAmps":-0.000631951,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":687.7819,"VoltageInVolts":-0.8693037,"CurrentInAmps":-0.001263924,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":686.7795,"VoltageInVolts":-1.301961,"CurrentInAmps":-0.001895748,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":684.8819,"VoltageInVolts":-1.731219,"CurrentInAmps":-0.002527763,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":682.1185,"VoltageInVolts":-2.155254,"CurrentInAmps":-0.003159648,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}],"IvCurvesAttempted":3,"Success":true},{"OptimizedSetup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":true,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"996301e4-69ca-4079-a61f-54e095d8d96b"},"ContactPair":{"Point1":3,"Point2":4},"InCompliance":false,"CalculatedRSquared":0.99992491228575042,"Offset":-0.0083401520528439185,"Slope":670.23877578151792,"RSquaredPass":true,"LastIvCurve":[{"Source":0.0031623,"ResistanceInOhms":658.7127,"VoltageInVolts":2.081137,"CurrentInAmps":0.0031594,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":666.7886,"VoltageInVolts":1.685272,"CurrentInAmps":0.002527446,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":671.619,"VoltageInVolts":1.273051,"CurrentInAmps":0.001895496,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":674.9329,"VoltageInVolts":0.8528648,"CurrentInAmps":0.001263629,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":677.6067,"VoltageInVolts":0.4280232,"CurrentInAmps":0.000631669,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":456.6924,"VoltageInVolts":-8.418435E-05,"CurrentInAmps":-1.843349E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":679.807,"VoltageInVolts":-0.4296168,"CurrentInAmps":-0.0006319688,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":679.5838,"VoltageInVolts":-0.8589533,"CurrentInAmps":-0.00126394,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":678.4863,"VoltageInVolts":-1.286246,"CurrentInAmps":-0.001895758,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":676.4671,"VoltageInVolts":-1.70995,"CurrentInAmps":-0.002527765,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":673.5964,"VoltageInVolts":-2.128338,"CurrentInAmps":-0.003159663,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}],"IvCurvesAttempted":3,"Success":true},{"OptimizedSetup":{"ExcitationType":1,"ExcitationValueStart":0.0031623,"ExcitationValueEnd":-0.0031623,"ExcitationAutoRange":false,"ExcitationRange":0.01,"MeasurementAutoRange":true,"MeasurementRange":10.0,"ComplianceLimit":10.0,"NumberOfPoints":11,"MinimumRSquared":0.9999,"BlankingTimeInSeconds":0.002,"SamplingTimeInSeconds":0.016666666666666666,"Guid":"3e9897f1-07fc-4c37-9329-38d608a155e4"},"ContactPair":{"Point1":4,"Point2":1},"InCompliance":false,"CalculatedRSquared":0.99993839542116725,"Offset":-0.0076985754314566369,"Slope":657.56147676634646,"RSquaredPass":true,"LastIvCurve":[{"Source":0.0031623,"ResistanceInOhms":647.3959,"VoltageInVolts":2.045395,"CurrentInAmps":0.003159419,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":654.027,"VoltageInVolts":1.653033,"CurrentInAmps":0.002527469,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":658.4194,"VoltageInVolts":1.248047,"CurrentInAmps":0.00189552,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":661.8528,"VoltageInVolts":0.8363336,"CurrentInAmps":0.001263625,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":664.3637,"VoltageInVolts":0.4196644,"CurrentInAmps":0.0006316787,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":513.4659,"VoltageInVolts":-9.205334E-05,"CurrentInAmps":-1.792784E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":666.4914,"VoltageInVolts":-0.4212039,"CurrentInAmps":-0.000631972,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":666.2238,"VoltageInVolts":-0.8420705,"CurrentInAmps":-0.001263945,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":665.14,"VoltageInVolts":-1.260953,"CurrentInAmps":-0.001895771,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":663.3239,"VoltageInVolts":-1.676742,"CurrentInAmps":-0.002527788,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":660.5617,"VoltageInVolts":-2.087174,"CurrentInAmps":-0.003159696,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}],"IvCurvesAttempted":3,"Success":true}],"Success":true},"SampleType":0,"ContactPairIVResults":[{"ContactPair":{"Point1":1,"Point2":2},"Offset":-0.0079156541358025734,"Slope":674.96412568971152,"RSquared":0.99992503536899158,"RSquaredPass":true,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false,"IvCurvePoints":[{"Source":0.0031623,"ResistanceInOhms":663.5346,"VoltageInVolts":2.096371,"CurrentInAmps":0.0031594,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":671.7,"VoltageInVolts":1.697684,"CurrentInAmps":0.002527444,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":676.8224,"VoltageInVolts":1.282914,"CurrentInAmps":0.001895496,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":680.3058,"VoltageInVolts":0.8596481,"CurrentInAmps":0.00126362,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":682.8349,"VoltageInVolts":0.4313355,"CurrentInAmps":0.0006316835,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":390.2523,"VoltageInVolts":-6.607566E-05,"CurrentInAmps":-1.693153E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":684.5982,"VoltageInVolts":-0.4326356,"CurrentInAmps":-0.0006319555,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":684.2165,"VoltageInVolts":-0.86481,"CurrentInAmps":-0.001263942,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":683.1177,"VoltageInVolts":-1.295029,"CurrentInAmps":-0.001895763,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":680.956,"VoltageInVolts":-1.721299,"CurrentInAmps":-0.002527768,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":678.008,"VoltageInVolts":-2.14227,"CurrentInAmps":-0.003159653,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}]},{"ContactPair":{"Point1":2,"Point2":3},"Offset":-0.0085360357227661117,"Slope":678.51369766689982,"RSquared":0.9999248097331167,"RSquaredPass":true,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false,"IvCurvePoints":[{"Source":0.0031623,"ResistanceInOhms":666.7989,"VoltageInVolts":2.106676,"CurrentInAmps":0.003159388,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":674.9184,"VoltageInVolts":1.70582,"CurrentInAmps":0.002527447,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":679.7731,"VoltageInVolts":1.288504,"CurrentInAmps":0.001895491,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":683.2217,"VoltageInVolts":0.863321,"CurrentInAmps":0.001263603,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":685.8486,"VoltageInVolts":0.4332219,"CurrentInAmps":0.0006316581,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":392.8324,"VoltageInVolts":-7.269399E-05,"CurrentInAmps":-1.850509E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":687.9271,"VoltageInVolts":-0.4347362,"CurrentInAmps":-0.000631951,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":687.7819,"VoltageInVolts":-0.8693037,"CurrentInAmps":-0.001263924,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":686.7795,"VoltageInVolts":-1.301961,"CurrentInAmps":-0.001895748,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":684.8819,"VoltageInVolts":-1.731219,"CurrentInAmps":-0.002527763,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":682.1185,"VoltageInVolts":-2.155254,"CurrentInAmps":-0.003159648,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}]},{"ContactPair":{"Point1":3,"Point2":4},"Offset":-0.0083401520528439185,"Slope":670.23877578151792,"RSquared":0.99992491228575042,"RSquaredPass":true,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false,"IvCurvePoints":[{"Source":0.0031623,"ResistanceInOhms":658.7127,"VoltageInVolts":2.081137,"CurrentInAmps":0.0031594,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":666.7886,"VoltageInVolts":1.685272,"CurrentInAmps":0.002527446,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":671.619,"VoltageInVolts":1.273051,"CurrentInAmps":0.001895496,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":674.9329,"VoltageInVolts":0.8528648,"CurrentInAmps":0.001263629,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":677.6067,"VoltageInVolts":0.4280232,"CurrentInAmps":0.000631669,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":456.6924,"VoltageInVolts":-8.418435E-05,"CurrentInAmps":-1.843349E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":679.807,"VoltageInVolts":-0.4296168,"CurrentInAmps":-0.0006319688,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":679.5838,"VoltageInVolts":-0.8589533,"CurrentInAmps":-0.00126394,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":678.4863,"VoltageInVolts":-1.286246,"CurrentInAmps":-0.001895758,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":676.4671,"VoltageInVolts":-1.70995,"CurrentInAmps":-0.002527765,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":673.5964,"VoltageInVolts":-2.128338,"CurrentInAmps":-0.003159663,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}]},{"ContactPair":{"Point1":4,"Point2":1},"Offset":-0.0076985754314566369,"Slope":657.56147676634646,"RSquared":0.99993839542116725,"RSquaredPass":true,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false,"IvCurvePoints":[{"Source":0.0031623,"ResistanceInOhms":647.3959,"VoltageInVolts":2.045395,"CurrentInAmps":0.003159419,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00252984,"ResistanceInOhms":654.027,"VoltageInVolts":1.653033,"CurrentInAmps":0.002527469,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00189738,"ResistanceInOhms":658.4194,"VoltageInVolts":1.248047,"CurrentInAmps":0.00189552,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00126492,"ResistanceInOhms":661.8528,"VoltageInVolts":0.8363336,"CurrentInAmps":0.001263625,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.00063246,"ResistanceInOhms":664.3637,"VoltageInVolts":0.4196644,"CurrentInAmps":0.0006316787,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":0.0,"ResistanceInOhms":513.4659,"VoltageInVolts":-9.205334E-05,"CurrentInAmps":-1.792784E-07,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00063246,"ResistanceInOhms":666.4914,"VoltageInVolts":-0.4212039,"CurrentInAmps":-0.000631972,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00126492,"ResistanceInOhms":666.2238,"VoltageInVolts":-0.8420705,"CurrentInAmps":-0.001263945,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00189738,"ResistanceInOhms":665.14,"VoltageInVolts":-1.260953,"CurrentInAmps":-0.001895771,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.00252984,"ResistanceInOhms":663.3239,"VoltageInVolts":-1.676742,"CurrentInAmps":-0.002527788,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false},{"Source":-0.0031623,"ResistanceInOhms":660.5617,"VoltageInVolts":-2.087174,"CurrentInAmps":-0.003159696,"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false}]}],"InCompliance":false,"VoltageOverload":false,"CurrentOverload":false,"StartTime":"2022-07-13T05:41:27.224385+00:00","EndTime":"2022-07-13T05:41:51.019872+00:00","DurationInSeconds":23.795}
+{
+  "Setup": {
+    "ExcitationType": 1,
+    "ExcitationValueStart": -0.0001,
+    "ExcitationValueEnd": 0.0001,
+    "ExcitationAutoRange": true,
+    "ExcitationRange": 0.0001,
+    "MeasurementAutoRange": true,
+    "MeasurementRange": 0.1,
+    "ComplianceLimit": 10.0,
+    "NumberOfPoints": 100,
+    "MinimumRSquared": 0.9999,
+    "BlankingTimeInSeconds": 0.01,
+    "SamplingTimeInSeconds": 0.1,
+    "Guid": "40656938-174a-48ee-bf40-d6c7a00f54d6"
+  },
+  "OptimizationSetup": null,
+  "OptimizationDiagnostics": null,
+  "SampleType": 0,
+  "ContactPairIVResults": [
+    {
+      "ContactPair": {
+        "Point1": 1,
+        "Point2": 2
+      },
+      "Offset": 0.00014343248411331286,
+      "Slope": 677.7937842495996,
+      "RSquared": 0.999999876211446,
+      "RSquaredPass": true,
+      "InCompliance": false,
+      "VoltageOverload": false,
+      "CurrentOverload": false,
+      "IvCurvePoints": [
+        {
+          "Source": -0.0001,
+          "ResistanceInOhms": 676.1771,
+          "VoltageInVolts": -0.06775711,
+          "CurrentInAmps": -0.0001002062,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.79798e-05,
+          "ResistanceInOhms": 676.1041,
+          "VoltageInVolts": -0.06638805,
+          "CurrentInAmps": -9.819205e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.59596e-05,
+          "ResistanceInOhms": 676.0736,
+          "VoltageInVolts": -0.06501827,
+          "CurrentInAmps": -9.61704e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.393939e-05,
+          "ResistanceInOhms": 676.0698,
+          "VoltageInVolts": -0.06364928,
+          "CurrentInAmps": -9.414601e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.191919e-05,
+          "ResistanceInOhms": 676.074,
+          "VoltageInVolts": -0.06228094,
+          "CurrentInAmps": -9.212148e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.989899e-05,
+          "ResistanceInOhms": 676.0965,
+          "VoltageInVolts": -0.06091235,
+          "CurrentInAmps": -9.009416e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.787879e-05,
+          "ResistanceInOhms": 676.1397,
+          "VoltageInVolts": -0.05954265,
+          "CurrentInAmps": -8.806264e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.585859e-05,
+          "ResistanceInOhms": 676.1225,
+          "VoltageInVolts": -0.05817377,
+          "CurrentInAmps": -8.604028e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.383838e-05,
+          "ResistanceInOhms": 676.0374,
+          "VoltageInVolts": -0.05680538,
+          "CurrentInAmps": -8.402699e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.181818e-05,
+          "ResistanceInOhms": 675.8905,
+          "VoltageInVolts": -0.0554357,
+          "CurrentInAmps": -8.201875e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.979798e-05,
+          "ResistanceInOhms": 675.7467,
+          "VoltageInVolts": -0.05406709,
+          "CurrentInAmps": -8.001088e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.777778e-05,
+          "ResistanceInOhms": 675.7037,
+          "VoltageInVolts": -0.05269846,
+          "CurrentInAmps": -7.799048e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.575758e-05,
+          "ResistanceInOhms": 675.6998,
+          "VoltageInVolts": -0.05132963,
+          "CurrentInAmps": -7.596514e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.373737e-05,
+          "ResistanceInOhms": 675.7103,
+          "VoltageInVolts": -0.04996144,
+          "CurrentInAmps": -7.393914e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.171717e-05,
+          "ResistanceInOhms": 675.7178,
+          "VoltageInVolts": -0.04859362,
+          "CurrentInAmps": -7.191407e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.969697e-05,
+          "ResistanceInOhms": 675.7488,
+          "VoltageInVolts": -0.0472247,
+          "CurrentInAmps": -6.988499e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.767677e-05,
+          "ResistanceInOhms": 675.7587,
+          "VoltageInVolts": -0.04585696,
+          "CurrentInAmps": -6.785997e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.565657e-05,
+          "ResistanceInOhms": 675.7267,
+          "VoltageInVolts": -0.04448798,
+          "CurrentInAmps": -6.583724e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.363636e-05,
+          "ResistanceInOhms": 675.6976,
+          "VoltageInVolts": -0.04311882,
+          "CurrentInAmps": -6.381378e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.161616e-05,
+          "ResistanceInOhms": 675.5674,
+          "VoltageInVolts": -0.04175013,
+          "CurrentInAmps": -6.180009e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.959596e-05,
+          "ResistanceInOhms": 675.3632,
+          "VoltageInVolts": -0.04038177,
+          "CurrentInAmps": -5.979267e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.757576e-05,
+          "ResistanceInOhms": 675.1284,
+          "VoltageInVolts": -0.03901263,
+          "CurrentInAmps": -5.77855e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.555556e-05,
+          "ResistanceInOhms": 675.0223,
+          "VoltageInVolts": -0.03764372,
+          "CurrentInAmps": -5.576662e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.353535e-05,
+          "ResistanceInOhms": 674.9911,
+          "VoltageInVolts": -0.03627523,
+          "CurrentInAmps": -5.374179e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.151515e-05,
+          "ResistanceInOhms": 674.898,
+          "VoltageInVolts": -0.03490616,
+          "CurrentInAmps": -5.172065e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.949495e-05,
+          "ResistanceInOhms": 674.8729,
+          "VoltageInVolts": -0.03353811,
+          "CurrentInAmps": -4.969544e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.747475e-05,
+          "ResistanceInOhms": 674.8896,
+          "VoltageInVolts": -0.03216932,
+          "CurrentInAmps": -4.766605e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.545455e-05,
+          "ResistanceInOhms": 674.8599,
+          "VoltageInVolts": -0.0308004,
+          "CurrentInAmps": -4.563969e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.343434e-05,
+          "ResistanceInOhms": 674.7644,
+          "VoltageInVolts": -0.02943238,
+          "CurrentInAmps": -4.361876e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.141414e-05,
+          "ResistanceInOhms": 674.5961,
+          "VoltageInVolts": -0.02806382,
+          "CurrentInAmps": -4.160093e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.939394e-05,
+          "ResistanceInOhms": 674.2993,
+          "VoltageInVolts": -0.02669446,
+          "CurrentInAmps": -3.958844e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.737374e-05,
+          "ResistanceInOhms": 673.9698,
+          "VoltageInVolts": -0.02532652,
+          "CurrentInAmps": -3.757812e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.535354e-05,
+          "ResistanceInOhms": 673.7599,
+          "VoltageInVolts": -0.02395819,
+          "CurrentInAmps": -3.555894e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.333333e-05,
+          "ResistanceInOhms": 673.5137,
+          "VoltageInVolts": -0.02258929,
+          "CurrentInAmps": -3.353946e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.131313e-05,
+          "ResistanceInOhms": 673.2178,
+          "VoltageInVolts": -0.02122094,
+          "CurrentInAmps": -3.152165e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.929293e-05,
+          "ResistanceInOhms": 673.1079,
+          "VoltageInVolts": -0.01985254,
+          "CurrentInAmps": -2.949384e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.727273e-05,
+          "ResistanceInOhms": 673.0539,
+          "VoltageInVolts": -0.01848368,
+          "CurrentInAmps": -2.74624e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.525253e-05,
+          "ResistanceInOhms": 672.7146,
+          "VoltageInVolts": -0.01711541,
+          "CurrentInAmps": -2.544231e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.323232e-05,
+          "ResistanceInOhms": 671.9332,
+          "VoltageInVolts": -0.01574681,
+          "CurrentInAmps": -2.343508e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.121212e-05,
+          "ResistanceInOhms": 671.2114,
+          "VoltageInVolts": -0.01437859,
+          "CurrentInAmps": -2.142186e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.919192e-05,
+          "ResistanceInOhms": 670.2153,
+          "VoltageInVolts": -0.01300979,
+          "CurrentInAmps": -1.941135e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.717172e-05,
+          "ResistanceInOhms": 669.6735,
+          "VoltageInVolts": -0.01164135,
+          "CurrentInAmps": -1.738362e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.515152e-05,
+          "ResistanceInOhms": 668.579,
+          "VoltageInVolts": -0.01027334,
+          "CurrentInAmps": -1.536594e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.313131e-05,
+          "ResistanceInOhms": 666.8352,
+          "VoltageInVolts": -0.008904507,
+          "CurrentInAmps": -1.335338e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.111111e-05,
+          "ResistanceInOhms": 664.5674,
+          "VoltageInVolts": -0.007536334,
+          "CurrentInAmps": -1.134021e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.090909e-06,
+          "ResistanceInOhms": 661.3955,
+          "VoltageInVolts": -0.006167485,
+          "CurrentInAmps": -9.324958e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.070707e-06,
+          "ResistanceInOhms": 657.5712,
+          "VoltageInVolts": -0.004799094,
+          "CurrentInAmps": -7.298212e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.050505e-06,
+          "ResistanceInOhms": 650.8601,
+          "VoltageInVolts": -0.003430791,
+          "CurrentInAmps": -5.271165e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.030303e-06,
+          "ResistanceInOhms": 635.1324,
+          "VoltageInVolts": -0.00206219,
+          "CurrentInAmps": -3.246866e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.010101e-06,
+          "ResistanceInOhms": 567.8271,
+          "VoltageInVolts": -0.0006936338,
+          "CurrentInAmps": -1.221558e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.010101e-06,
+          "ResistanceInOhms": 841.4492,
+          "VoltageInVolts": 0.0006745626,
+          "CurrentInAmps": 8.016676e-07,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.030303e-06,
+          "ResistanceInOhms": 722.89,
+          "VoltageInVolts": 0.002042704,
+          "CurrentInAmps": 2.825747e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.050505e-06,
+          "ResistanceInOhms": 703.9701,
+          "VoltageInVolts": 0.00341128,
+          "CurrentInAmps": 4.845774e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.070707e-06,
+          "ResistanceInOhms": 695.2485,
+          "VoltageInVolts": 0.004780161,
+          "CurrentInAmps": 6.875471e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.090909e-06,
+          "ResistanceInOhms": 691.0452,
+          "VoltageInVolts": 0.006148102,
+          "CurrentInAmps": 8.896816e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.111111e-05,
+          "ResistanceInOhms": 687.9843,
+          "VoltageInVolts": 0.007517042,
+          "CurrentInAmps": 1.092618e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.313131e-05,
+          "ResistanceInOhms": 686.3509,
+          "VoltageInVolts": 0.008886147,
+          "CurrentInAmps": 1.294694e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.515152e-05,
+          "ResistanceInOhms": 685.4175,
+          "VoltageInVolts": 0.01025481,
+          "CurrentInAmps": 1.496141e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.717172e-05,
+          "ResistanceInOhms": 684.7414,
+          "VoltageInVolts": 0.01162327,
+          "CurrentInAmps": 1.697469e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.919192e-05,
+          "ResistanceInOhms": 684.3676,
+          "VoltageInVolts": 0.01299299,
+          "CurrentInAmps": 1.89854e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.121212e-05,
+          "ResistanceInOhms": 683.7105,
+          "VoltageInVolts": 0.01436255,
+          "CurrentInAmps": 2.100677e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.323232e-05,
+          "ResistanceInOhms": 683.1057,
+          "VoltageInVolts": 0.01573125,
+          "CurrentInAmps": 2.302901e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.525253e-05,
+          "ResistanceInOhms": 682.7353,
+          "VoltageInVolts": 0.01710144,
+          "CurrentInAmps": 2.504842e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.727273e-05,
+          "ResistanceInOhms": 682.6671,
+          "VoltageInVolts": 0.01847052,
+          "CurrentInAmps": 2.70564e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.929293e-05,
+          "ResistanceInOhms": 682.6031,
+          "VoltageInVolts": 0.01983959,
+          "CurrentInAmps": 2.906461e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.131313e-05,
+          "ResistanceInOhms": 682.242,
+          "VoltageInVolts": 0.0212092,
+          "CurrentInAmps": 3.108751e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.333333e-05,
+          "ResistanceInOhms": 681.8406,
+          "VoltageInVolts": 0.02257859,
+          "CurrentInAmps": 3.311418e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.535354e-05,
+          "ResistanceInOhms": 681.6025,
+          "VoltageInVolts": 0.02394745,
+          "CurrentInAmps": 3.513404e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.737374e-05,
+          "ResistanceInOhms": 681.3032,
+          "VoltageInVolts": 0.02531709,
+          "CurrentInAmps": 3.71598e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.939394e-05,
+          "ResistanceInOhms": 681.0033,
+          "VoltageInVolts": 0.02668564,
+          "CurrentInAmps": 3.918577e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.141414e-05,
+          "ResistanceInOhms": 680.8873,
+          "VoltageInVolts": 0.02805554,
+          "CurrentInAmps": 4.120438e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.343434e-05,
+          "ResistanceInOhms": 680.9635,
+          "VoltageInVolts": 0.02942591,
+          "CurrentInAmps": 4.321216e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.545455e-05,
+          "ResistanceInOhms": 680.9999,
+          "VoltageInVolts": 0.03079531,
+          "CurrentInAmps": 4.522073e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.747475e-05,
+          "ResistanceInOhms": 680.9502,
+          "VoltageInVolts": 0.03216472,
+          "CurrentInAmps": 4.723505e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.949495e-05,
+          "ResistanceInOhms": 680.6958,
+          "VoltageInVolts": 0.03353546,
+          "CurrentInAmps": 4.926644e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.151515e-05,
+          "ResistanceInOhms": 680.5399,
+          "VoltageInVolts": 0.0349054,
+          "CurrentInAmps": 5.129074e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.353535e-05,
+          "ResistanceInOhms": 680.4511,
+          "VoltageInVolts": 0.03627535,
+          "CurrentInAmps": 5.331074e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.555556e-05,
+          "ResistanceInOhms": 680.3404,
+          "VoltageInVolts": 0.03764533,
+          "CurrentInAmps": 5.533308e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.757576e-05,
+          "ResistanceInOhms": 680.2107,
+          "VoltageInVolts": 0.03901537,
+          "CurrentInAmps": 5.735777e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.959596e-05,
+          "ResistanceInOhms": 680.0924,
+          "VoltageInVolts": 0.04038476,
+          "CurrentInAmps": 5.938128e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.161616e-05,
+          "ResistanceInOhms": 679.9933,
+          "VoltageInVolts": 0.04175463,
+          "CurrentInAmps": 6.140448e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.363636e-05,
+          "ResistanceInOhms": 680.0876,
+          "VoltageInVolts": 0.04312372,
+          "CurrentInAmps": 6.340907e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.565657e-05,
+          "ResistanceInOhms": 680.1493,
+          "VoltageInVolts": 0.04449315,
+          "CurrentInAmps": 6.541675e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.767677e-05,
+          "ResistanceInOhms": 680.1741,
+          "VoltageInVolts": 0.04586314,
+          "CurrentInAmps": 6.742852e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.969697e-05,
+          "ResistanceInOhms": 680.056,
+          "VoltageInVolts": 0.04723276,
+          "CurrentInAmps": 6.945423e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.171717e-05,
+          "ResistanceInOhms": 679.9606,
+          "VoltageInVolts": 0.04860338,
+          "CurrentInAmps": 7.147971e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.373737e-05,
+          "ResistanceInOhms": 679.8746,
+          "VoltageInVolts": 0.04997364,
+          "CurrentInAmps": 7.350421e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.575758e-05,
+          "ResistanceInOhms": 679.7589,
+          "VoltageInVolts": 0.05134468,
+          "CurrentInAmps": 7.553366e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.777778e-05,
+          "ResistanceInOhms": 679.687,
+          "VoltageInVolts": 0.05271537,
+          "CurrentInAmps": 7.755829e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.979798e-05,
+          "ResistanceInOhms": 679.6265,
+          "VoltageInVolts": 0.05408614,
+          "CurrentInAmps": 7.958216e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.181818e-05,
+          "ResistanceInOhms": 679.5418,
+          "VoltageInVolts": 0.0554572,
+          "CurrentInAmps": 8.160969e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.383838e-05,
+          "ResistanceInOhms": 679.5079,
+          "VoltageInVolts": 0.05682798,
+          "CurrentInAmps": 8.363108e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.585859e-05,
+          "ResistanceInOhms": 679.607,
+          "VoltageInVolts": 0.05819831,
+          "CurrentInAmps": 8.563525e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.787879e-05,
+          "ResistanceInOhms": 679.6731,
+          "VoltageInVolts": 0.05957009,
+          "CurrentInAmps": 8.764521e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.989899e-05,
+          "ResistanceInOhms": 679.7342,
+          "VoltageInVolts": 0.06094098,
+          "CurrentInAmps": 8.965414e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.191919e-05,
+          "ResistanceInOhms": 679.6768,
+          "VoltageInVolts": 0.06231143,
+          "CurrentInAmps": 9.167802e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.393939e-05,
+          "ResistanceInOhms": 679.6144,
+          "VoltageInVolts": 0.06368264,
+          "CurrentInAmps": 9.370407e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.59596e-05,
+          "ResistanceInOhms": 679.5762,
+          "VoltageInVolts": 0.06505307,
+          "CurrentInAmps": 9.572594e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.79798e-05,
+          "ResistanceInOhms": 679.5281,
+          "VoltageInVolts": 0.06642466,
+          "CurrentInAmps": 9.775116e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 0.0001,
+          "ResistanceInOhms": 679.4634,
+          "VoltageInVolts": 0.06779571,
+          "CurrentInAmps": 9.977831e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        }
+      ]
+    },
+    {
+      "ContactPair": {
+        "Point1": 2,
+        "Point2": 3
+      },
+      "Offset": 0.00012484144795184981,
+      "Slope": 687.6746836404316,
+      "RSquared": 0.9999999461140633,
+      "RSquaredPass": true,
+      "InCompliance": false,
+      "VoltageOverload": false,
+      "CurrentOverload": false,
+      "IvCurvePoints": [
+        {
+          "Source": -0.0001,
+          "ResistanceInOhms": 686.1964,
+          "VoltageInVolts": -0.06874107,
+          "CurrentInAmps": -0.000100177,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.79798e-05,
+          "ResistanceInOhms": 686.1824,
+          "VoltageInVolts": -0.06735408,
+          "CurrentInAmps": -9.815768e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.59596e-05,
+          "ResistanceInOhms": 686.2242,
+          "VoltageInVolts": -0.06596615,
+          "CurrentInAmps": -9.612915e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.393939e-05,
+          "ResistanceInOhms": 686.2323,
+          "VoltageInVolts": -0.06457851,
+          "CurrentInAmps": -9.41059e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.191919e-05,
+          "ResistanceInOhms": 686.2944,
+          "VoltageInVolts": -0.06319081,
+          "CurrentInAmps": -9.207536e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.989899e-05,
+          "ResistanceInOhms": 686.3259,
+          "VoltageInVolts": -0.06180378,
+          "CurrentInAmps": -9.005019e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.787879e-05,
+          "ResistanceInOhms": 686.3095,
+          "VoltageInVolts": -0.06041593,
+          "CurrentInAmps": -8.803016e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.585859e-05,
+          "ResistanceInOhms": 686.3172,
+          "VoltageInVolts": -0.05902821,
+          "CurrentInAmps": -8.600719e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.383838e-05,
+          "ResistanceInOhms": 686.2578,
+          "VoltageInVolts": -0.05764006,
+          "CurrentInAmps": -8.399185e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.181818e-05,
+          "ResistanceInOhms": 686.126,
+          "VoltageInVolts": -0.05625133,
+          "CurrentInAmps": -8.198397e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.979798e-05,
+          "ResistanceInOhms": 685.9541,
+          "VoltageInVolts": -0.05486296,
+          "CurrentInAmps": -7.998052e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.777778e-05,
+          "ResistanceInOhms": 685.9514,
+          "VoltageInVolts": -0.053475,
+          "CurrentInAmps": -7.795742e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.575758e-05,
+          "ResistanceInOhms": 685.9006,
+          "VoltageInVolts": -0.05208618,
+          "CurrentInAmps": -7.593838e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.373737e-05,
+          "ResistanceInOhms": 685.9248,
+          "VoltageInVolts": -0.05069827,
+          "CurrentInAmps": -7.391229e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.171717e-05,
+          "ResistanceInOhms": 685.9431,
+          "VoltageInVolts": -0.04931057,
+          "CurrentInAmps": -7.188726e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.969697e-05,
+          "ResistanceInOhms": 685.9649,
+          "VoltageInVolts": -0.04792128,
+          "CurrentInAmps": -6.985966e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.767677e-05,
+          "ResistanceInOhms": 685.9455,
+          "VoltageInVolts": -0.04653332,
+          "CurrentInAmps": -6.783823e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.565657e-05,
+          "ResistanceInOhms": 685.9671,
+          "VoltageInVolts": -0.04514542,
+          "CurrentInAmps": -6.58128e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.363636e-05,
+          "ResistanceInOhms": 685.9765,
+          "VoltageInVolts": -0.04375593,
+          "CurrentInAmps": -6.378633e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.161616e-05,
+          "ResistanceInOhms": 685.8706,
+          "VoltageInVolts": -0.04236689,
+          "CurrentInAmps": -6.177097e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.959596e-05,
+          "ResistanceInOhms": 685.6675,
+          "VoltageInVolts": -0.04097909,
+          "CurrentInAmps": -5.976525e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.757576e-05,
+          "ResistanceInOhms": 685.3887,
+          "VoltageInVolts": -0.03959041,
+          "CurrentInAmps": -5.776344e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.555556e-05,
+          "ResistanceInOhms": 685.3128,
+          "VoltageInVolts": -0.03820145,
+          "CurrentInAmps": -5.574309e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.353535e-05,
+          "ResistanceInOhms": 685.2689,
+          "VoltageInVolts": -0.03681338,
+          "CurrentInAmps": -5.372108e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.151515e-05,
+          "ResistanceInOhms": 685.2758,
+          "VoltageInVolts": -0.03542404,
+          "CurrentInAmps": -5.169312e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.949495e-05,
+          "ResistanceInOhms": 685.2447,
+          "VoltageInVolts": -0.0340348,
+          "CurrentInAmps": -4.966809e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.747475e-05,
+          "ResistanceInOhms": 685.1902,
+          "VoltageInVolts": -0.03264636,
+          "CurrentInAmps": -4.764568e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.545455e-05,
+          "ResistanceInOhms": 685.1507,
+          "VoltageInVolts": -0.0312575,
+          "CurrentInAmps": -4.562135e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.343434e-05,
+          "ResistanceInOhms": 685.1404,
+          "VoltageInVolts": -0.02986874,
+          "CurrentInAmps": -4.359506e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.141414e-05,
+          "ResistanceInOhms": 684.9347,
+          "VoltageInVolts": -0.02848003,
+          "CurrentInAmps": -4.158066e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.939394e-05,
+          "ResistanceInOhms": 684.6773,
+          "VoltageInVolts": -0.02709083,
+          "CurrentInAmps": -3.95673e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.737374e-05,
+          "ResistanceInOhms": 684.3743,
+          "VoltageInVolts": -0.02570255,
+          "CurrentInAmps": -3.755627e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.535354e-05,
+          "ResistanceInOhms": 684.0732,
+          "VoltageInVolts": -0.02431425,
+          "CurrentInAmps": -3.554335e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.333333e-05,
+          "ResistanceInOhms": 683.8785,
+          "VoltageInVolts": -0.02292494,
+          "CurrentInAmps": -3.352195e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.131313e-05,
+          "ResistanceInOhms": 683.6796,
+          "VoltageInVolts": -0.02153589,
+          "CurrentInAmps": -3.149998e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.929293e-05,
+          "ResistanceInOhms": 683.4433,
+          "VoltageInVolts": -0.02014753,
+          "CurrentInAmps": -2.947945e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.727273e-05,
+          "ResistanceInOhms": 683.3045,
+          "VoltageInVolts": -0.01875844,
+          "CurrentInAmps": -2.745254e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.525253e-05,
+          "ResistanceInOhms": 682.9813,
+          "VoltageInVolts": -0.0173704,
+          "CurrentInAmps": -2.54332e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.323232e-05,
+          "ResistanceInOhms": 682.3383,
+          "VoltageInVolts": -0.01598239,
+          "CurrentInAmps": -2.342297e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.121212e-05,
+          "ResistanceInOhms": 681.5355,
+          "VoltageInVolts": -0.01459339,
+          "CurrentInAmps": -2.141251e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.919192e-05,
+          "ResistanceInOhms": 680.6466,
+          "VoltageInVolts": -0.01320517,
+          "CurrentInAmps": -1.940092e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.717172e-05,
+          "ResistanceInOhms": 680.2175,
+          "VoltageInVolts": -0.01181652,
+          "CurrentInAmps": -1.737168e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.515152e-05,
+          "ResistanceInOhms": 679.3365,
+          "VoltageInVolts": -0.01042791,
+          "CurrentInAmps": -1.535014e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.313131e-05,
+          "ResistanceInOhms": 677.6638,
+          "VoltageInVolts": -0.009038422,
+          "CurrentInAmps": -1.333762e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.111111e-05,
+          "ResistanceInOhms": 675.5258,
+          "VoltageInVolts": -0.007649467,
+          "CurrentInAmps": -1.132372e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.090909e-06,
+          "ResistanceInOhms": 672.3821,
+          "VoltageInVolts": -0.006260968,
+          "CurrentInAmps": -9.311623e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.070707e-06,
+          "ResistanceInOhms": 668.5772,
+          "VoltageInVolts": -0.004871902,
+          "CurrentInAmps": -7.28697e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.050505e-06,
+          "ResistanceInOhms": 661.7273,
+          "VoltageInVolts": -0.003482416,
+          "CurrentInAmps": -5.262615e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.030303e-06,
+          "ResistanceInOhms": 646.7546,
+          "VoltageInVolts": -0.002093189,
+          "CurrentInAmps": -3.236451e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.010101e-06,
+          "ResistanceInOhms": 581.0984,
+          "VoltageInVolts": -0.0007038822,
+          "CurrentInAmps": -1.211296e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.010101e-06,
+          "ResistanceInOhms": 838.2607,
+          "VoltageInVolts": 0.0006851784,
+          "CurrentInAmps": 8.173811e-07,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.030303e-06,
+          "ResistanceInOhms": 729.7848,
+          "VoltageInVolts": 0.002073978,
+          "CurrentInAmps": 2.841904e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.050505e-06,
+          "ResistanceInOhms": 711.391,
+          "VoltageInVolts": 0.003463163,
+          "CurrentInAmps": 4.868157e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.070707e-06,
+          "ResistanceInOhms": 704.6367,
+          "VoltageInVolts": 0.004853067,
+          "CurrentInAmps": 6.887332e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.090909e-06,
+          "ResistanceInOhms": 700.3205,
+          "VoltageInVolts": 0.006241421,
+          "CurrentInAmps": 8.912235e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.111111e-05,
+          "ResistanceInOhms": 697.5894,
+          "VoltageInVolts": 0.007629753,
+          "CurrentInAmps": 1.093731e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.313131e-05,
+          "ResistanceInOhms": 695.7408,
+          "VoltageInVolts": 0.009019128,
+          "CurrentInAmps": 1.296335e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.515152e-05,
+          "ResistanceInOhms": 695.0072,
+          "VoltageInVolts": 0.01040783,
+          "CurrentInAmps": 1.497515e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.717172e-05,
+          "ResistanceInOhms": 694.3408,
+          "VoltageInVolts": 0.01179633,
+          "CurrentInAmps": 1.698925e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.919192e-05,
+          "ResistanceInOhms": 693.8174,
+          "VoltageInVolts": 0.01318544,
+          "CurrentInAmps": 1.900419e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.121212e-05,
+          "ResistanceInOhms": 693.1716,
+          "VoltageInVolts": 0.01457348,
+          "CurrentInAmps": 2.102435e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.323232e-05,
+          "ResistanceInOhms": 692.6076,
+          "VoltageInVolts": 0.01596187,
+          "CurrentInAmps": 2.304605e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.525253e-05,
+          "ResistanceInOhms": 692.0775,
+          "VoltageInVolts": 0.01735045,
+          "CurrentInAmps": 2.50701e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.727273e-05,
+          "ResistanceInOhms": 692.0056,
+          "VoltageInVolts": 0.0187384,
+          "CurrentInAmps": 2.70784e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.929293e-05,
+          "ResistanceInOhms": 691.9309,
+          "VoltageInVolts": 0.02012665,
+          "CurrentInAmps": 2.908765e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.131313e-05,
+          "ResistanceInOhms": 691.6027,
+          "VoltageInVolts": 0.02151544,
+          "CurrentInAmps": 3.110954e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.333333e-05,
+          "ResistanceInOhms": 691.3028,
+          "VoltageInVolts": 0.02290372,
+          "CurrentInAmps": 3.313124e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.535354e-05,
+          "ResistanceInOhms": 691.1626,
+          "VoltageInVolts": 0.02429196,
+          "CurrentInAmps": 3.514652e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.737374e-05,
+          "ResistanceInOhms": 690.8673,
+          "VoltageInVolts": 0.02568022,
+          "CurrentInAmps": 3.717098e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.939394e-05,
+          "ResistanceInOhms": 690.6936,
+          "VoltageInVolts": 0.02706816,
+          "CurrentInAmps": 3.918982e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.141414e-05,
+          "ResistanceInOhms": 690.5147,
+          "VoltageInVolts": 0.02845645,
+          "CurrentInAmps": 4.121049e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.343434e-05,
+          "ResistanceInOhms": 690.5325,
+          "VoltageInVolts": 0.02984568,
+          "CurrentInAmps": 4.322125e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.545455e-05,
+          "ResistanceInOhms": 690.5585,
+          "VoltageInVolts": 0.03123449,
+          "CurrentInAmps": 4.523077e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.747475e-05,
+          "ResistanceInOhms": 690.547,
+          "VoltageInVolts": 0.03262269,
+          "CurrentInAmps": 4.72418e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.949495e-05,
+          "ResistanceInOhms": 690.2696,
+          "VoltageInVolts": 0.03401154,
+          "CurrentInAmps": 4.927283e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.151515e-05,
+          "ResistanceInOhms": 690.114,
+          "VoltageInVolts": 0.03540097,
+          "CurrentInAmps": 5.129727e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.353535e-05,
+          "ResistanceInOhms": 690.0233,
+          "VoltageInVolts": 0.03679038,
+          "CurrentInAmps": 5.33176e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.555556e-05,
+          "ResistanceInOhms": 689.8712,
+          "VoltageInVolts": 0.03817977,
+          "CurrentInAmps": 5.534333e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.757576e-05,
+          "ResistanceInOhms": 689.6818,
+          "VoltageInVolts": 0.03956912,
+          "CurrentInAmps": 5.737302e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.959596e-05,
+          "ResistanceInOhms": 689.5927,
+          "VoltageInVolts": 0.04095808,
+          "CurrentInAmps": 5.93946e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.161616e-05,
+          "ResistanceInOhms": 689.5168,
+          "VoltageInVolts": 0.04234749,
+          "CurrentInAmps": 6.141619e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.363636e-05,
+          "ResistanceInOhms": 689.6134,
+          "VoltageInVolts": 0.04373698,
+          "CurrentInAmps": 6.342246e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.565657e-05,
+          "ResistanceInOhms": 689.7198,
+          "VoltageInVolts": 0.04512698,
+          "CurrentInAmps": 6.542799e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.767677e-05,
+          "ResistanceInOhms": 689.75,
+          "VoltageInVolts": 0.04651632,
+          "CurrentInAmps": 6.743939e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.969697e-05,
+          "ResistanceInOhms": 689.6019,
+          "VoltageInVolts": 0.04790643,
+          "CurrentInAmps": 6.946968e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.171717e-05,
+          "ResistanceInOhms": 689.5568,
+          "VoltageInVolts": 0.04929623,
+          "CurrentInAmps": 7.148974e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.373737e-05,
+          "ResistanceInOhms": 689.4498,
+          "VoltageInVolts": 0.05068514,
+          "CurrentInAmps": 7.351534e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.575758e-05,
+          "ResistanceInOhms": 689.3446,
+          "VoltageInVolts": 0.05207596,
+          "CurrentInAmps": 7.554416e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.777778e-05,
+          "ResistanceInOhms": 689.292,
+          "VoltageInVolts": 0.05346557,
+          "CurrentInAmps": 7.756592e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.979798e-05,
+          "ResistanceInOhms": 689.2205,
+          "VoltageInVolts": 0.05485478,
+          "CurrentInAmps": 7.958959e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.181818e-05,
+          "ResistanceInOhms": 689.1052,
+          "VoltageInVolts": 0.05624475,
+          "CurrentInAmps": 8.161997e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.383838e-05,
+          "ResistanceInOhms": 689.1049,
+          "VoltageInVolts": 0.05763405,
+          "CurrentInAmps": 8.36361e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.585859e-05,
+          "ResistanceInOhms": 689.1801,
+          "VoltageInVolts": 0.05902288,
+          "CurrentInAmps": 8.564217e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.787879e-05,
+          "ResistanceInOhms": 689.2451,
+          "VoltageInVolts": 0.06041238,
+          "CurrentInAmps": 8.765007e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.989899e-05,
+          "ResistanceInOhms": 689.2695,
+          "VoltageInVolts": 0.06180113,
+          "CurrentInAmps": 8.966179e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.191919e-05,
+          "ResistanceInOhms": 689.1985,
+          "VoltageInVolts": 0.06318957,
+          "CurrentInAmps": 9.168558e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.393939e-05,
+          "ResistanceInOhms": 689.1375,
+          "VoltageInVolts": 0.06457954,
+          "CurrentInAmps": 9.371067e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.59596e-05,
+          "ResistanceInOhms": 689.0711,
+          "VoltageInVolts": 0.06596875,
+          "CurrentInAmps": 9.573576e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.79798e-05,
+          "ResistanceInOhms": 688.9882,
+          "VoltageInVolts": 0.06735834,
+          "CurrentInAmps": 9.776414e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 0.0001,
+          "ResistanceInOhms": 688.8985,
+          "VoltageInVolts": 0.06874735,
+          "CurrentInAmps": 9.979314e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        }
+      ]
+    },
+    {
+      "ContactPair": {
+        "Point1": 3,
+        "Point2": 4
+      },
+      "Offset": 0.00013304549824519018,
+      "Slope": 685.1494791678903,
+      "RSquared": 0.9999998252555836,
+      "RSquaredPass": true,
+      "InCompliance": false,
+      "VoltageOverload": false,
+      "CurrentOverload": false,
+      "IvCurvePoints": [
+        {
+          "Source": -0.0001,
+          "ResistanceInOhms": 683.4549,
+          "VoltageInVolts": -0.06845614,
+          "CurrentInAmps": -0.0001001619,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.79798e-05,
+          "ResistanceInOhms": 683.4445,
+          "VoltageInVolts": -0.06707401,
+          "CurrentInAmps": -9.814112e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.59596e-05,
+          "ResistanceInOhms": 683.5053,
+          "VoltageInVolts": -0.06569138,
+          "CurrentInAmps": -9.610954e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.393939e-05,
+          "ResistanceInOhms": 683.4967,
+          "VoltageInVolts": -0.06430883,
+          "CurrentInAmps": -9.4088e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.191919e-05,
+          "ResistanceInOhms": 683.497,
+          "VoltageInVolts": -0.0629271,
+          "CurrentInAmps": -9.206639e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.989899e-05,
+          "ResistanceInOhms": 683.4993,
+          "VoltageInVolts": -0.06154511,
+          "CurrentInAmps": -9.004415e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.787879e-05,
+          "ResistanceInOhms": 683.5047,
+          "VoltageInVolts": -0.06016238,
+          "CurrentInAmps": -8.802044e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.585859e-05,
+          "ResistanceInOhms": 683.5436,
+          "VoltageInVolts": -0.05877959,
+          "CurrentInAmps": -8.599245e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.383838e-05,
+          "ResistanceInOhms": 683.4289,
+          "VoltageInVolts": -0.0573971,
+          "CurrentInAmps": -8.398401e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.181818e-05,
+          "ResistanceInOhms": 683.299,
+          "VoltageInVolts": -0.05601303,
+          "CurrentInAmps": -8.197441e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.979798e-05,
+          "ResistanceInOhms": 683.1634,
+          "VoltageInVolts": -0.05462993,
+          "CurrentInAmps": -7.996613e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.777778e-05,
+          "ResistanceInOhms": 683.0845,
+          "VoltageInVolts": -0.05324756,
+          "CurrentInAmps": -7.795165e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.575758e-05,
+          "ResistanceInOhms": 683.0895,
+          "VoltageInVolts": -0.05186463,
+          "CurrentInAmps": -7.592656e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.373737e-05,
+          "ResistanceInOhms": 683.0837,
+          "VoltageInVolts": -0.05048211,
+          "CurrentInAmps": -7.390326e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.171717e-05,
+          "ResistanceInOhms": 683.0769,
+          "VoltageInVolts": -0.0490997,
+          "CurrentInAmps": -7.188019e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.969697e-05,
+          "ResistanceInOhms": 683.0858,
+          "VoltageInVolts": -0.04771744,
+          "CurrentInAmps": -6.98557e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.767677e-05,
+          "ResistanceInOhms": 683.1603,
+          "VoltageInVolts": -0.04633595,
+          "CurrentInAmps": -6.782588e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.565657e-05,
+          "ResistanceInOhms": 683.1597,
+          "VoltageInVolts": -0.04495426,
+          "CurrentInAmps": -6.580345e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.363636e-05,
+          "ResistanceInOhms": 683.2075,
+          "VoltageInVolts": -0.04357225,
+          "CurrentInAmps": -6.377602e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.161616e-05,
+          "ResistanceInOhms": 683.1092,
+          "VoltageInVolts": -0.04219063,
+          "CurrentInAmps": -6.176265e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.959596e-05,
+          "ResistanceInOhms": 682.8754,
+          "VoltageInVolts": -0.04080916,
+          "CurrentInAmps": -5.976078e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.757576e-05,
+          "ResistanceInOhms": 682.7218,
+          "VoltageInVolts": -0.03942703,
+          "CurrentInAmps": -5.774977e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.555556e-05,
+          "ResistanceInOhms": 682.6566,
+          "VoltageInVolts": -0.03804559,
+          "CurrentInAmps": -5.573166e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.353535e-05,
+          "ResistanceInOhms": 682.6307,
+          "VoltageInVolts": -0.03666423,
+          "CurrentInAmps": -5.37102e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.151515e-05,
+          "ResistanceInOhms": 682.711,
+          "VoltageInVolts": -0.03528201,
+          "CurrentInAmps": -5.167927e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.949495e-05,
+          "ResistanceInOhms": 682.6683,
+          "VoltageInVolts": -0.03389957,
+          "CurrentInAmps": -4.965745e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.747475e-05,
+          "ResistanceInOhms": 682.6476,
+          "VoltageInVolts": -0.03251679,
+          "CurrentInAmps": -4.763335e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.545455e-05,
+          "ResistanceInOhms": 682.6156,
+          "VoltageInVolts": -0.03113389,
+          "CurrentInAmps": -4.56097e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.343434e-05,
+          "ResistanceInOhms": 682.5633,
+          "VoltageInVolts": -0.02975128,
+          "CurrentInAmps": -4.358758e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.141414e-05,
+          "ResistanceInOhms": 682.4429,
+          "VoltageInVolts": -0.02836834,
+          "CurrentInAmps": -4.15688e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.939394e-05,
+          "ResistanceInOhms": 682.2218,
+          "VoltageInVolts": -0.02698522,
+          "CurrentInAmps": -3.955491e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.737374e-05,
+          "ResistanceInOhms": 681.8469,
+          "VoltageInVolts": -0.02560258,
+          "CurrentInAmps": -3.754886e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.535354e-05,
+          "ResistanceInOhms": 681.6665,
+          "VoltageInVolts": -0.02422053,
+          "CurrentInAmps": -3.553135e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.333333e-05,
+          "ResistanceInOhms": 681.4513,
+          "VoltageInVolts": -0.02283713,
+          "CurrentInAmps": -3.35125e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.131313e-05,
+          "ResistanceInOhms": 681.3498,
+          "VoltageInVolts": -0.02145473,
+          "CurrentInAmps": -3.148857e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.929293e-05,
+          "ResistanceInOhms": 681.117,
+          "VoltageInVolts": -0.02007135,
+          "CurrentInAmps": -2.946829e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.727273e-05,
+          "ResistanceInOhms": 681.1214,
+          "VoltageInVolts": -0.01868776,
+          "CurrentInAmps": -2.743676e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.525253e-05,
+          "ResistanceInOhms": 680.8128,
+          "VoltageInVolts": -0.01730453,
+          "CurrentInAmps": -2.541745e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.323232e-05,
+          "ResistanceInOhms": 680.1191,
+          "VoltageInVolts": -0.01592151,
+          "CurrentInAmps": -2.340989e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.121212e-05,
+          "ResistanceInOhms": 679.2402,
+          "VoltageInVolts": -0.01453743,
+          "CurrentInAmps": -2.140249e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.919192e-05,
+          "ResistanceInOhms": 678.4352,
+          "VoltageInVolts": -0.0131544,
+          "CurrentInAmps": -1.938933e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.717172e-05,
+          "ResistanceInOhms": 677.7927,
+          "VoltageInVolts": -0.01177089,
+          "CurrentInAmps": -1.73665e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.515152e-05,
+          "ResistanceInOhms": 677.284,
+          "VoltageInVolts": -0.01038726,
+          "CurrentInAmps": -1.533664e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.313131e-05,
+          "ResistanceInOhms": 675.7014,
+          "VoltageInVolts": -0.00900291,
+          "CurrentInAmps": -1.33238e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.111111e-05,
+          "ResistanceInOhms": 673.5266,
+          "VoltageInVolts": -0.00761907,
+          "CurrentInAmps": -1.13122e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.090909e-06,
+          "ResistanceInOhms": 670.3307,
+          "VoltageInVolts": -0.006235739,
+          "CurrentInAmps": -9.302481e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.070707e-06,
+          "ResistanceInOhms": 666.5996,
+          "VoltageInVolts": -0.004851986,
+          "CurrentInAmps": -7.278711e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.050505e-06,
+          "ResistanceInOhms": 660.8002,
+          "VoltageInVolts": -0.003468051,
+          "CurrentInAmps": -5.24826e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.030303e-06,
+          "ResistanceInOhms": 646.0451,
+          "VoltageInVolts": -0.002084154,
+          "CurrentInAmps": -3.22602e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.010101e-06,
+          "ResistanceInOhms": 582.1983,
+          "VoltageInVolts": -0.00070029,
+          "CurrentInAmps": -1.202838e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.010101e-06,
+          "ResistanceInOhms": 830.8247,
+          "VoltageInVolts": 0.0006832111,
+          "CurrentInAmps": 8.223288e-07,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.030303e-06,
+          "ResistanceInOhms": 724.4598,
+          "VoltageInVolts": 0.002066546,
+          "CurrentInAmps": 2.852534e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.050505e-06,
+          "ResistanceInOhms": 707.6153,
+          "VoltageInVolts": 0.003450473,
+          "CurrentInAmps": 4.8762e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.070707e-06,
+          "ResistanceInOhms": 700.4397,
+          "VoltageInVolts": 0.004834913,
+          "CurrentInAmps": 6.902682e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.090909e-06,
+          "ResistanceInOhms": 696.4678,
+          "VoltageInVolts": 0.006218113,
+          "CurrentInAmps": 8.92807e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.111111e-05,
+          "ResistanceInOhms": 694.2301,
+          "VoltageInVolts": 0.007601586,
+          "CurrentInAmps": 1.094966e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.313131e-05,
+          "ResistanceInOhms": 692.192,
+          "VoltageInVolts": 0.008986052,
+          "CurrentInAmps": 1.298202e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.515152e-05,
+          "ResistanceInOhms": 691.7832,
+          "VoltageInVolts": 0.01037011,
+          "CurrentInAmps": 1.499041e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.717172e-05,
+          "ResistanceInOhms": 691.4525,
+          "VoltageInVolts": 0.01175417,
+          "CurrentInAmps": 1.699924e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.919192e-05,
+          "ResistanceInOhms": 691.0877,
+          "VoltageInVolts": 0.01313898,
+          "CurrentInAmps": 1.901203e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.121212e-05,
+          "ResistanceInOhms": 690.5627,
+          "VoltageInVolts": 0.01452275,
+          "CurrentInAmps": 2.103031e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.323232e-05,
+          "ResistanceInOhms": 689.9303,
+          "VoltageInVolts": 0.01590712,
+          "CurrentInAmps": 2.305612e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.525253e-05,
+          "ResistanceInOhms": 689.7566,
+          "VoltageInVolts": 0.01729166,
+          "CurrentInAmps": 2.506921e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.727273e-05,
+          "ResistanceInOhms": 689.6748,
+          "VoltageInVolts": 0.01867611,
+          "CurrentInAmps": 2.707959e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.929293e-05,
+          "ResistanceInOhms": 689.5663,
+          "VoltageInVolts": 0.02006056,
+          "CurrentInAmps": 2.909155e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.131313e-05,
+          "ResistanceInOhms": 689.2867,
+          "VoltageInVolts": 0.02144594,
+          "CurrentInAmps": 3.111324e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.333333e-05,
+          "ResistanceInOhms": 688.9425,
+          "VoltageInVolts": 0.02283018,
+          "CurrentInAmps": 3.313801e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.535354e-05,
+          "ResistanceInOhms": 688.685,
+          "VoltageInVolts": 0.02421493,
+          "CurrentInAmps": 3.516111e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.737374e-05,
+          "ResistanceInOhms": 688.5418,
+          "VoltageInVolts": 0.02559954,
+          "CurrentInAmps": 3.717935e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.939394e-05,
+          "ResistanceInOhms": 688.3455,
+          "VoltageInVolts": 0.0269843,
+          "CurrentInAmps": 3.920168e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.141414e-05,
+          "ResistanceInOhms": 688.1811,
+          "VoltageInVolts": 0.02836898,
+          "CurrentInAmps": 4.122314e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.343434e-05,
+          "ResistanceInOhms": 688.2152,
+          "VoltageInVolts": 0.02975456,
+          "CurrentInAmps": 4.323438e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.545455e-05,
+          "ResistanceInOhms": 688.3238,
+          "VoltageInVolts": 0.03113899,
+          "CurrentInAmps": 4.523887e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.747475e-05,
+          "ResistanceInOhms": 688.3173,
+          "VoltageInVolts": 0.03252315,
+          "CurrentInAmps": 4.725023e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.949495e-05,
+          "ResistanceInOhms": 688.1272,
+          "VoltageInVolts": 0.03390876,
+          "CurrentInAmps": 4.927687e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.151515e-05,
+          "ResistanceInOhms": 687.9726,
+          "VoltageInVolts": 0.03529359,
+          "CurrentInAmps": 5.130086e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.353535e-05,
+          "ResistanceInOhms": 687.7776,
+          "VoltageInVolts": 0.03667799,
+          "CurrentInAmps": 5.332828e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.555556e-05,
+          "ResistanceInOhms": 687.6182,
+          "VoltageInVolts": 0.03806252,
+          "CurrentInAmps": 5.535415e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.757576e-05,
+          "ResistanceInOhms": 687.5377,
+          "VoltageInVolts": 0.03944693,
+          "CurrentInAmps": 5.73742e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.959596e-05,
+          "ResistanceInOhms": 687.4015,
+          "VoltageInVolts": 0.04083114,
+          "CurrentInAmps": 5.939926e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.161616e-05,
+          "ResistanceInOhms": 687.3524,
+          "VoltageInVolts": 0.04221625,
+          "CurrentInAmps": 6.141865e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.363636e-05,
+          "ResistanceInOhms": 687.4323,
+          "VoltageInVolts": 0.04360038,
+          "CurrentInAmps": 6.342498e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.565657e-05,
+          "ResistanceInOhms": 687.4691,
+          "VoltageInVolts": 0.04498382,
+          "CurrentInAmps": 6.543396e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.767677e-05,
+          "ResistanceInOhms": 687.4514,
+          "VoltageInVolts": 0.04636737,
+          "CurrentInAmps": 6.744822e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.969697e-05,
+          "ResistanceInOhms": 687.3583,
+          "VoltageInVolts": 0.04775186,
+          "CurrentInAmps": 6.947157e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.171717e-05,
+          "ResistanceInOhms": 687.2596,
+          "VoltageInVolts": 0.04913516,
+          "CurrentInAmps": 7.149432e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.373737e-05,
+          "ResistanceInOhms": 687.1353,
+          "VoltageInVolts": 0.05051908,
+          "CurrentInAmps": 7.35213e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.575758e-05,
+          "ResistanceInOhms": 687.037,
+          "VoltageInVolts": 0.05190345,
+          "CurrentInAmps": 7.55468e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.777778e-05,
+          "ResistanceInOhms": 686.9476,
+          "VoltageInVolts": 0.05328712,
+          "CurrentInAmps": 7.757087e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.979798e-05,
+          "ResistanceInOhms": 686.7985,
+          "VoltageInVolts": 0.05467055,
+          "CurrentInAmps": 7.960202e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.181818e-05,
+          "ResistanceInOhms": 686.7127,
+          "VoltageInVolts": 0.05605546,
+          "CurrentInAmps": 8.162868e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.383838e-05,
+          "ResistanceInOhms": 686.7024,
+          "VoltageInVolts": 0.0574399,
+          "CurrentInAmps": 8.364599e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.585859e-05,
+          "ResistanceInOhms": 686.8013,
+          "VoltageInVolts": 0.05882516,
+          "CurrentInAmps": 8.56509e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.787879e-05,
+          "ResistanceInOhms": 686.9207,
+          "VoltageInVolts": 0.06021079,
+          "CurrentInAmps": 8.765318e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.989899e-05,
+          "ResistanceInOhms": 686.934,
+          "VoltageInVolts": 0.06159616,
+          "CurrentInAmps": 8.966823e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.191919e-05,
+          "ResistanceInOhms": 686.8526,
+          "VoltageInVolts": 0.0629809,
+          "CurrentInAmps": 9.169493e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.393939e-05,
+          "ResistanceInOhms": 686.8112,
+          "VoltageInVolts": 0.06436696,
+          "CurrentInAmps": 9.371856e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.59596e-05,
+          "ResistanceInOhms": 686.7302,
+          "VoltageInVolts": 0.06575246,
+          "CurrentInAmps": 9.574715e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.79798e-05,
+          "ResistanceInOhms": 686.6955,
+          "VoltageInVolts": 0.06713791,
+          "CurrentInAmps": 9.776955e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 0.0001,
+          "ResistanceInOhms": 686.6601,
+          "VoltageInVolts": 0.06852412,
+          "CurrentInAmps": 9.979336e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        }
+      ]
+    },
+    {
+      "ContactPair": {
+        "Point1": 4,
+        "Point2": 1
+      },
+      "Offset": 0.00012599189646798946,
+      "Slope": 676.9292005285653,
+      "RSquared": 0.9999998028067087,
+      "RSquaredPass": true,
+      "InCompliance": false,
+      "VoltageOverload": false,
+      "CurrentOverload": false,
+      "IvCurvePoints": [
+        {
+          "Source": -0.0001,
+          "ResistanceInOhms": 675.269,
+          "VoltageInVolts": -0.06763483,
+          "CurrentInAmps": -0.0001001598,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.79798e-05,
+          "ResistanceInOhms": 675.2584,
+          "VoltageInVolts": -0.06626947,
+          "CurrentInAmps": -9.813942e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.59596e-05,
+          "ResistanceInOhms": 675.3073,
+          "VoltageInVolts": -0.06490413,
+          "CurrentInAmps": -9.611051e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.393939e-05,
+          "ResistanceInOhms": 675.3268,
+          "VoltageInVolts": -0.06353872,
+          "CurrentInAmps": -9.408589e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.191919e-05,
+          "ResistanceInOhms": 675.3591,
+          "VoltageInVolts": -0.06217397,
+          "CurrentInAmps": -9.206061e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.989899e-05,
+          "ResistanceInOhms": 675.3946,
+          "VoltageInVolts": -0.06080905,
+          "CurrentInAmps": -9.003485e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.787879e-05,
+          "ResistanceInOhms": 675.3604,
+          "VoltageInVolts": -0.05944288,
+          "CurrentInAmps": -8.801654e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.585859e-05,
+          "ResistanceInOhms": 675.3814,
+          "VoltageInVolts": -0.05807732,
+          "CurrentInAmps": -8.599188e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.383838e-05,
+          "ResistanceInOhms": 675.3197,
+          "VoltageInVolts": -0.05671081,
+          "CurrentInAmps": -8.397624e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -8.181818e-05,
+          "ResistanceInOhms": 675.1678,
+          "VoltageInVolts": -0.05534451,
+          "CurrentInAmps": -8.197149e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.979798e-05,
+          "ResistanceInOhms": 675.0215,
+          "VoltageInVolts": -0.05397833,
+          "CurrentInAmps": -7.996535e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.777778e-05,
+          "ResistanceInOhms": 674.9617,
+          "VoltageInVolts": -0.05261273,
+          "CurrentInAmps": -7.794922e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.575758e-05,
+          "ResistanceInOhms": 674.9732,
+          "VoltageInVolts": -0.05124595,
+          "CurrentInAmps": -7.592295e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.373737e-05,
+          "ResistanceInOhms": 675.0005,
+          "VoltageInVolts": -0.04987959,
+          "CurrentInAmps": -7.389564e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.171717e-05,
+          "ResistanceInOhms": 675.0213,
+          "VoltageInVolts": -0.0485138,
+          "CurrentInAmps": -7.187004e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.969697e-05,
+          "ResistanceInOhms": 675.0305,
+          "VoltageInVolts": -0.04714773,
+          "CurrentInAmps": -6.984533e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.767677e-05,
+          "ResistanceInOhms": 675.0868,
+          "VoltageInVolts": -0.045782,
+          "CurrentInAmps": -6.781647e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.565657e-05,
+          "ResistanceInOhms": 675.1225,
+          "VoltageInVolts": -0.04441649,
+          "CurrentInAmps": -6.579028e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.363636e-05,
+          "ResistanceInOhms": 675.1142,
+          "VoltageInVolts": -0.04304971,
+          "CurrentInAmps": -6.376656e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -6.161616e-05,
+          "ResistanceInOhms": 674.9656,
+          "VoltageInVolts": -0.04168341,
+          "CurrentInAmps": -6.175636e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.959596e-05,
+          "ResistanceInOhms": 674.7619,
+          "VoltageInVolts": -0.04031819,
+          "CurrentInAmps": -5.975173e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.757576e-05,
+          "ResistanceInOhms": 674.6064,
+          "VoltageInVolts": -0.03895143,
+          "CurrentInAmps": -5.77395e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.555556e-05,
+          "ResistanceInOhms": 674.5542,
+          "VoltageInVolts": -0.03758619,
+          "CurrentInAmps": -5.572004e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.353535e-05,
+          "ResistanceInOhms": 674.5094,
+          "VoltageInVolts": -0.03622001,
+          "CurrentInAmps": -5.36983e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.151515e-05,
+          "ResistanceInOhms": 674.51,
+          "VoltageInVolts": -0.03485381,
+          "CurrentInAmps": -5.167279e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.949495e-05,
+          "ResistanceInOhms": 674.4545,
+          "VoltageInVolts": -0.03348856,
+          "CurrentInAmps": -4.965281e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.747475e-05,
+          "ResistanceInOhms": 674.4546,
+          "VoltageInVolts": -0.03212241,
+          "CurrentInAmps": -4.762724e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.545455e-05,
+          "ResistanceInOhms": 674.5243,
+          "VoltageInVolts": -0.03075622,
+          "CurrentInAmps": -4.55969e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.343434e-05,
+          "ResistanceInOhms": 674.5647,
+          "VoltageInVolts": -0.02939068,
+          "CurrentInAmps": -4.356984e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -4.141414e-05,
+          "ResistanceInOhms": 674.318,
+          "VoltageInVolts": -0.02802474,
+          "CurrentInAmps": -4.156013e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.939394e-05,
+          "ResistanceInOhms": 674.0496,
+          "VoltageInVolts": -0.02665755,
+          "CurrentInAmps": -3.954835e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.737374e-05,
+          "ResistanceInOhms": 673.7155,
+          "VoltageInVolts": -0.02529174,
+          "CurrentInAmps": -3.754068e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.535354e-05,
+          "ResistanceInOhms": 673.5034,
+          "VoltageInVolts": -0.02392571,
+          "CurrentInAmps": -3.552427e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.333333e-05,
+          "ResistanceInOhms": 673.4529,
+          "VoltageInVolts": -0.02255881,
+          "CurrentInAmps": -3.349723e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.131313e-05,
+          "ResistanceInOhms": 673.2395,
+          "VoltageInVolts": -0.02119234,
+          "CurrentInAmps": -3.147816e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.929293e-05,
+          "ResistanceInOhms": 673.0442,
+          "VoltageInVolts": -0.01982576,
+          "CurrentInAmps": -2.945684e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.727273e-05,
+          "ResistanceInOhms": 672.8787,
+          "VoltageInVolts": -0.01845889,
+          "CurrentInAmps": -2.743271e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.525253e-05,
+          "ResistanceInOhms": 672.5976,
+          "VoltageInVolts": -0.0170928,
+          "CurrentInAmps": -2.541311e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.323232e-05,
+          "ResistanceInOhms": 671.9079,
+          "VoltageInVolts": -0.01572575,
+          "CurrentInAmps": -2.340462e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -2.121212e-05,
+          "ResistanceInOhms": 671.1641,
+          "VoltageInVolts": -0.01435938,
+          "CurrentInAmps": -2.139474e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.919192e-05,
+          "ResistanceInOhms": 670.5255,
+          "VoltageInVolts": -0.01299254,
+          "CurrentInAmps": -1.937665e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.717172e-05,
+          "ResistanceInOhms": 670.1097,
+          "VoltageInVolts": -0.01162582,
+          "CurrentInAmps": -1.734913e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.515152e-05,
+          "ResistanceInOhms": 669.4261,
+          "VoltageInVolts": -0.01025966,
+          "CurrentInAmps": -1.532605e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.313131e-05,
+          "ResistanceInOhms": 667.8407,
+          "VoltageInVolts": -0.008892663,
+          "CurrentInAmps": -1.331554e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.111111e-05,
+          "ResistanceInOhms": 666.1362,
+          "VoltageInVolts": -0.007526175,
+          "CurrentInAmps": -1.129825e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -9.090909e-06,
+          "ResistanceInOhms": 663.3382,
+          "VoltageInVolts": -0.006159018,
+          "CurrentInAmps": -9.284884e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -7.070707e-06,
+          "ResistanceInOhms": 659.5937,
+          "VoltageInVolts": -0.004792271,
+          "CurrentInAmps": -7.265489e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -5.050505e-06,
+          "ResistanceInOhms": 653.6568,
+          "VoltageInVolts": -0.003425478,
+          "CurrentInAmps": -5.240484e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -3.030303e-06,
+          "ResistanceInOhms": 641.3402,
+          "VoltageInVolts": -0.002058554,
+          "CurrentInAmps": -3.20977e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": -1.010101e-06,
+          "ResistanceInOhms": 582.2633,
+          "VoltageInVolts": -0.0006913575,
+          "CurrentInAmps": -1.187362e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.010101e-06,
+          "ResistanceInOhms": 804.376,
+          "VoltageInVolts": 0.000675456,
+          "CurrentInAmps": 8.397267e-07,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.030303e-06,
+          "ResistanceInOhms": 714.0575,
+          "VoltageInVolts": 0.002042193,
+          "CurrentInAmps": 2.859983e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.050505e-06,
+          "ResistanceInOhms": 697.7082,
+          "VoltageInVolts": 0.00340935,
+          "CurrentInAmps": 4.886498e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.070707e-06,
+          "ResistanceInOhms": 691.1529,
+          "VoltageInVolts": 0.00477685,
+          "CurrentInAmps": 6.911424e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.090909e-06,
+          "ResistanceInOhms": 687.57,
+          "VoltageInVolts": 0.0061433,
+          "CurrentInAmps": 8.934799e-06,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.111111e-05,
+          "ResistanceInOhms": 685.3614,
+          "VoltageInVolts": 0.007510784,
+          "CurrentInAmps": 1.095887e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.313131e-05,
+          "ResistanceInOhms": 683.5929,
+          "VoltageInVolts": 0.00887822,
+          "CurrentInAmps": 1.298758e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.515152e-05,
+          "ResistanceInOhms": 683.127,
+          "VoltageInVolts": 0.0102451,
+          "CurrentInAmps": 1.499735e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.717172e-05,
+          "ResistanceInOhms": 682.8735,
+          "VoltageInVolts": 0.01161179,
+          "CurrentInAmps": 1.700431e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 1.919192e-05,
+          "ResistanceInOhms": 682.5393,
+          "VoltageInVolts": 0.01297971,
+          "CurrentInAmps": 1.901679e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.121212e-05,
+          "ResistanceInOhms": 681.7013,
+          "VoltageInVolts": 0.01434728,
+          "CurrentInAmps": 2.104628e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.323232e-05,
+          "ResistanceInOhms": 681.0914,
+          "VoltageInVolts": 0.01571373,
+          "CurrentInAmps": 2.307139e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.525253e-05,
+          "ResistanceInOhms": 681.0598,
+          "VoltageInVolts": 0.01708201,
+          "CurrentInAmps": 2.508151e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.727273e-05,
+          "ResistanceInOhms": 681.0368,
+          "VoltageInVolts": 0.01844894,
+          "CurrentInAmps": 2.708949e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 2.929293e-05,
+          "ResistanceInOhms": 680.9067,
+          "VoltageInVolts": 0.01981613,
+          "CurrentInAmps": 2.910256e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.131313e-05,
+          "ResistanceInOhms": 680.7563,
+          "VoltageInVolts": 0.02118421,
+          "CurrentInAmps": 3.111864e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.333333e-05,
+          "ResistanceInOhms": 680.4683,
+          "VoltageInVolts": 0.02255152,
+          "CurrentInAmps": 3.314118e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.535354e-05,
+          "ResistanceInOhms": 680.2193,
+          "VoltageInVolts": 0.02391917,
+          "CurrentInAmps": 3.516391e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.737374e-05,
+          "ResistanceInOhms": 679.911,
+          "VoltageInVolts": 0.02528686,
+          "CurrentInAmps": 3.719143e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 3.939394e-05,
+          "ResistanceInOhms": 679.7634,
+          "VoltageInVolts": 0.02665387,
+          "CurrentInAmps": 3.92105e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.141414e-05,
+          "ResistanceInOhms": 679.7016,
+          "VoltageInVolts": 0.02802189,
+          "CurrentInAmps": 4.122675e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.343434e-05,
+          "ResistanceInOhms": 679.7822,
+          "VoltageInVolts": 0.02939021,
+          "CurrentInAmps": 4.323474e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.545455e-05,
+          "ResistanceInOhms": 679.7587,
+          "VoltageInVolts": 0.03075797,
+          "CurrentInAmps": 4.524837e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.747475e-05,
+          "ResistanceInOhms": 679.7428,
+          "VoltageInVolts": 0.03212574,
+          "CurrentInAmps": 4.726162e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 4.949495e-05,
+          "ResistanceInOhms": 679.6144,
+          "VoltageInVolts": 0.03349433,
+          "CurrentInAmps": 4.928431e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.151515e-05,
+          "ResistanceInOhms": 679.4711,
+          "VoltageInVolts": 0.03486188,
+          "CurrentInAmps": 5.130738e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.353535e-05,
+          "ResistanceInOhms": 679.3077,
+          "VoltageInVolts": 0.03623018,
+          "CurrentInAmps": 5.333397e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.555556e-05,
+          "ResistanceInOhms": 679.1716,
+          "VoltageInVolts": 0.03759936,
+          "CurrentInAmps": 5.536062e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.757576e-05,
+          "ResistanceInOhms": 679.0372,
+          "VoltageInVolts": 0.03896761,
+          "CurrentInAmps": 5.738656e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 5.959596e-05,
+          "ResistanceInOhms": 678.9115,
+          "VoltageInVolts": 0.04033599,
+          "CurrentInAmps": 5.941273e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.161616e-05,
+          "ResistanceInOhms": 678.8791,
+          "VoltageInVolts": 0.04170444,
+          "CurrentInAmps": 6.143132e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.363636e-05,
+          "ResistanceInOhms": 678.9597,
+          "VoltageInVolts": 0.04307294,
+          "CurrentInAmps": 6.343961e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.565657e-05,
+          "ResistanceInOhms": 679.0641,
+          "VoltageInVolts": 0.04444111,
+          "CurrentInAmps": 6.544463e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.767677e-05,
+          "ResistanceInOhms": 679.0884,
+          "VoltageInVolts": 0.04580924,
+          "CurrentInAmps": 6.745697e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 6.969697e-05,
+          "ResistanceInOhms": 679.0257,
+          "VoltageInVolts": 0.04717711,
+          "CurrentInAmps": 6.947764e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.171717e-05,
+          "ResistanceInOhms": 678.9589,
+          "VoltageInVolts": 0.04854515,
+          "CurrentInAmps": 7.14994e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.373737e-05,
+          "ResistanceInOhms": 678.8374,
+          "VoltageInVolts": 0.04991316,
+          "CurrentInAmps": 7.352741e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.575758e-05,
+          "ResistanceInOhms": 678.7706,
+          "VoltageInVolts": 0.05128259,
+          "CurrentInAmps": 7.555218e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.777778e-05,
+          "ResistanceInOhms": 678.6818,
+          "VoltageInVolts": 0.05265122,
+          "CurrentInAmps": 7.757865e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 7.979798e-05,
+          "ResistanceInOhms": 678.5878,
+          "VoltageInVolts": 0.05401927,
+          "CurrentInAmps": 7.960543e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.181818e-05,
+          "ResistanceInOhms": 678.5163,
+          "VoltageInVolts": 0.05538827,
+          "CurrentInAmps": 8.163145e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.383838e-05,
+          "ResistanceInOhms": 678.5009,
+          "VoltageInVolts": 0.05675583,
+          "CurrentInAmps": 8.364887e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.585859e-05,
+          "ResistanceInOhms": 678.6004,
+          "VoltageInVolts": 0.05812453,
+          "CurrentInAmps": 8.565355e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.787879e-05,
+          "ResistanceInOhms": 678.7289,
+          "VoltageInVolts": 0.05949368,
+          "CurrentInAmps": 8.765456e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 8.989899e-05,
+          "ResistanceInOhms": 678.7269,
+          "VoltageInVolts": 0.06086204,
+          "CurrentInAmps": 8.967089e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.191919e-05,
+          "ResistanceInOhms": 678.6591,
+          "VoltageInVolts": 0.06222995,
+          "CurrentInAmps": 9.169545e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.393939e-05,
+          "ResistanceInOhms": 678.5702,
+          "VoltageInVolts": 0.0635981,
+          "CurrentInAmps": 9.372369e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.59596e-05,
+          "ResistanceInOhms": 678.5236,
+          "VoltageInVolts": 0.06496662,
+          "CurrentInAmps": 9.574702e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 9.79798e-05,
+          "ResistanceInOhms": 678.4754,
+          "VoltageInVolts": 0.06633481,
+          "CurrentInAmps": 9.77704e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        },
+        {
+          "Source": 0.0001,
+          "ResistanceInOhms": 678.4363,
+          "VoltageInVolts": 0.06770379,
+          "CurrentInAmps": 9.979387e-05,
+          "InCompliance": false,
+          "VoltageOverload": false,
+          "CurrentOverload": false
+        }
+      ]
+    }
+  ],
+  "InCompliance": false,
+  "VoltageOverload": false,
+  "CurrentOverload": false,
+  "StartTime": "2022-07-14T08:10:02.259934+00:00",
+  "EndTime": "2022-07-14T08:10:57.781524+00:00",
+  "DurationInSeconds": 55.521
+}

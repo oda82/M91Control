@@ -1,0 +1,98 @@
+Команды для m91
+
+CCHeck[:VDP]:STARt[:OPTimize]
+Summary 		Automatically determines excitation value and ranges. Then runs contact check on all
+                4 pairs for a van der Pauw sample.
+Command Format 	CCHeck[:VDP]:STARt[:OPTimize] <maxCurrent>,<maxVoltage>,<numberOfPoints>,
+                                <minimumRSquared>,<samplingTime>
+Parameters 		<maxCurrent> A 'not to exceed' output current value for the auto algorithm to use.
+                            DEFault = 100 mA   MINimum = 1 µA    MAXimum = 100 mA                
+                            Data type is Number
+                <maxVoltage> A 'not to exceed' output voltage value for the auto algorithm to use.
+                            DEFault = 10 V   MINimum = 1 V   MAXimum = 10 V
+                            Data type is Number
+                <numberOfPoints> The number of points to measure between the excitation start and end.
+                            DEFault = 11   MINimum = 2  MAXimum = 100
+                            Data type is Number
+                <minimumRSquared> The minimum R² desired, DEFault = 0.9999.
+                            Data type is Number
+                <samplingTime> The sampling time, in seconds, which measurements will be averaged over to get one sample.
+                            DEFault = 1/60 s    MINimum = 0.010 ms   MAXimum = 1 s
+                            Data type is Number
+                            maxCur  maxVolt Points   RSq
+Example 		CCHeck:STARt 10e-3,   10,      11,   0.9999
+
+
+
+
+CCHeck[:VDP]:STARt:MANual
+Summary 		Performs a contact check measurement on contact pairs 1-2, 2-3, 3-4, and 4-1 for a
+                van der Pauw sample.
+Command Format 	CCHeck[:VDP]:STARt:MANual <excitationType>,<excitationValueStart>,
+                <excitationValueEnd>,<excitationRange>,
+                <measurementRange>,<complianceLimit>,
+                <numberOfPoints>,<minimumRSquared>,<blankingTime>
+Parameters
+    <excitationType> VOLTage, CURRent
+                     Data type is NAMED
+    <excitationValueStart> The starting excitation value
+                           For voltage excitation -10 to 10 V
+                           For current excitation -100e-3 to 100e-3 A
+                            Data type is NRf
+    <excitationValueEnd> The ending excitation value
+                         For voltage excitation -10 to 10 V
+                            For current excitation -100e-3 to 100e-3 A
+                            Data type is NRf
+    <excitationRange> For voltage excitation 0 to 10 V
+                        For current excitation 0 to 100 e-3 A
+                        AUTO sets the range to the best fit range for a given excitation value
+                        NOTE: The hardware will be configured to best meet the desired range.
+                        Data type is Number
+<measurementRange> For voltage excitation, specify the current measurement range 0 to 100 e-3 A
+                    For current excitation, specify the voltage measurement range 0 to 10 V
+                    NOTE: The hardware will be configured to best meet the desired range.
+                    Data type is Number
+<complianceLimit> For voltage excitation, specify the current limit 100 e-9 to 100 e-3 A
+                    For current excitation, specify the voltage compliance 1.0 to 10 V
+                    Data type is NRf
+<numberOfPoints> The number of points to measure between the excitation start and end. 0 - 100
+                    Data type is NR1
+<minimumRSquared> The minimum R² desired, DEFault = 0.9999.
+                    Data type is Number
+<blankingTime> The time in seconds to wait for the hardware to settle before gathering readings.
+                0.5 ms to 300 s with a resolution of 0.1 ms
+                DEFault = 2 ms  MINimum = 0.5 ms  MAXimum = 300 s
+                Data type is Number
+<samplingTime> The sampling time, in seconds, which measurements will be averaged over to get one sample.
+                DEFault = 1/60 s    MINimum = 0.010 ms  MAXimum = 1 s
+                Data type is Number
+                
+                            exitat   start   end    ex_range  m_range  comp  points  Rsq    blank_t
+Example CCHeck:STARt:MANual CURRent, -10e-6, 10e-6,  10e-6,   100e-3,  1.5,   20,    0.9999, 2.4e-3
+                                                     AUTO     AUTO
+ 
+
+
+
+
+CCHeck:RESet
+Summary    		Resets the measurement to a not run state, canceling any running measurement.
+Command    		Format CCHeck:RESet
+Example    		CCHeck:RESET
+
+CCHeck:RUNNing?
+Summary 		Indicates if the contact check measurement is running.
+Query Format 	CCHeck:RUNNing?
+Returns 		The measurement is running.
+                Data type is bool
+
+
+CCHeck:RESult:JSON:ALL?
+Summary			Retrieves the results of the last run contact check measurement, serialized as JSON.
+Query Format	CCHeck:RESult:JSON:ALL? <pretty>
+Parameters 		<pretty> 	Optional, pretty format JSON response. Defaults to False.
+                            Data type is bool
+Returns 		JSON serialized contact check measurement result.
+                Data type is NAMED
+Examples 		Query CCHeck:RESult:JSON:ALL? 1
+                Query response   ........

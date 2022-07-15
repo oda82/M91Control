@@ -1,28 +1,50 @@
 import json
+import matplotlib.pyplot as plt
 
-with open('cch_res_all.txt', 'r') as f:
+with open('cch_res_all.txt','r') as f:
     res_json = f.read()
-
+    
 data = json.loads(res_json)
 
-# res_json_indent = json.dumps(data, indent=2)
-# with open('cch_res_all_indent.txt', 'w') as f:
-#     f.write(res_json_indent)
+def pprint(data):
+    if type(data) == dict: print(json.dumps(data, indent=2))
+    else: print(data)
+    pass
 
-def p_indent(data):
-    res_json_indent = json.dumps(data, indent=2)
-    print(res_json_indent)
-
-p_indent(data['OptimizationDiagnostics']['ContactPairOptimizationResults'][0]['ContactPair']  )
-p_indent(data['OptimizationDiagnostics']['ContactPairOptimizationResults'][0]['LastIvCurve']  )
-
-for point in data['OptimizationDiagnostics']['ContactPairOptimizationResults'][0]['LastIvCurve']:
-    source = point['Source']
-    Current = point['CurrentInAmps']
-    Voltage = point['VoltageInVolts']
-    Res_m91 = point['ResistanceInOhms']
-    Res_V_source = Voltage / source
-    Res_V_current = Voltage / Current
+#pprint(data)
+pprint(data['Setup'])# вывести данные настройки
+for i in range(4):    #для каждой контактной пары
+    pprint( data["ContactPairIVResults"][i]["ContactPair"])
+    pprint( data["ContactPairIVResults"][i][ "RSquared"])
     
-    print(f'{source}    {Current}    {Voltage}    {Res_V_source}    {Res_V_current}       {Res_m91}  ')
     
+    contacts = data["ContactPairIVResults"][i]["ContactPair"]
+    current = []
+    voltage = []
+    resistance = []
+    power = []
+    for i_v in data["ContactPairIVResults"][i]["IvCurvePoints"]:
+        current.append(i_v["CurrentInAmps"])
+        voltage.append(i_v["VoltageInVolts"])
+        resistance.append(i_v["ResistanceInOhms"])
+        power.append(i_v["CurrentInAmps"] * i_v["VoltageInVolts"])
+        
+    # voltage vs current
+    plt.plot(current, voltage, '-o')
+    plt.title('voltage vs current contacts {}-{}'.format(contacts["Point1"], contacts["Point2"]))
+    plt.xlabel('current')
+    plt.ylabel('voltage')
+    plt.show()
+    # resistance vs current
+    plt.plot(current, resistance, '-o')
+    plt.title('resistance vs current contacts {}-{}'.format(contacts["Point1"], contacts["Point2"]))
+    plt.xlabel('current')
+    plt.ylabel('resistance')
+    plt.show()
+    # power vs current
+    plt.plot(current, power, '-o')
+    plt.title('power vs current contacts {}-{}'.format(contacts["Point1"], contacts["Point2"]))
+    plt.xlabel('current')
+    plt.ylabel('power')
+    plt.show()
+
