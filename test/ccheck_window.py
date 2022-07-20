@@ -15,7 +15,7 @@ class Res_cch:
         #self.canvas.create_rectangle(1,1,self.WIDTH, self.HEIGHT, outline='red', width=5)
         self.canvas.create_oval(self.WIDTH // 2 - 15, 20, self.WIDTH // 2 + 15, 50, outline='green', width=2    )
         self.canvas.create_line(self.WIDTH // 2 -5, 25, self.WIDTH // 2, 35, self.WIDTH // 2 + 15,15 , fill='green', width=2    )
-        
+    def rsq_pass(self, )
         
         pass
     
