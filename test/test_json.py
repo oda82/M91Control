@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 with open('cch_res_all.txt','r') as f:
     res_json = f.read()
     
-data = json.loads(res_json)
+data = json.loads(res_json) # json -> dictionary
 
 def pprint(data):
     if type(data) == dict: print(json.dumps(data, indent=2))
